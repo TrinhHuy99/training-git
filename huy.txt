@@ -1,0 +1,5 @@
+git init để bắt đầu
+git add . hoặc git add tên muốn add
+git status xem trạng thại 
+git commit -m '' để command
+git push để đẩy lên github
