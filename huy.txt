@@ -3,3 +3,6 @@ git add . hoặc git add tên muốn add
 git status xem trạng thại 
 git commit -m '' để command
 git push để đẩy lên github
+git clone để code trên github về sửa
+git checkout -b tên chi nhánh để tạo chi nhánh mới
+git pull để tải code mới về khi người ta sửa trên github
