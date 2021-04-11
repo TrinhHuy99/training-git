@@ -6,4 +6,5 @@ git push để đẩy lên github
 git clone để code trên github về sửa
 git checkout -b tên chi nhánh để tạo chi nhánh mới
 git pull để tải code mới về khi người ta sửa trên github
+git checkout chi nhánh cũ, để quay trờ lại chi nhánh đó
 ok roi
